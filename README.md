@@ -16,11 +16,6 @@ Styled with an Instagram-inspired aesthetic for a clean and appealing user exper
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](screenshot.png)
-
----
 
 ## 🛠️ Tech Stack
 
